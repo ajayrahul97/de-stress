@@ -43,3 +43,5 @@ If a user is under threat or needs food medicine urgently, he can mark his locat
 1. Users can store their personal information such as blood group, any serious medical diseases such as diabetics, contact numbers of relatives etc in the app. The case the user is found unconscious, this information can be used to provide correct treatment and contact his relatives. 
 2. Support for native languages.
 
+
+![Concept image](https://github.com/ajayrahul97/de-stress/blob/master/43756780_2049703541718026_2290341278241521664_n.png)
