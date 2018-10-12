@@ -1,7 +1,7 @@
 # de-stress
 Disaster Recovery Management Application - Code.fun.do.2018
 
-"App to De-stress while in distress"
+**"App to De-stress while in distress"**
 
 ## Background :
 
@@ -29,11 +29,8 @@ During a disaster, any person would want to find other people nearby and move to
 3. When the information reaches a device with proper internet connection. It can be transmitted to some other reliable source that can take proper action accordingly.
 4. Establishing such a connection is the primary task, directing the messages to proper sources can be easily done by filtering the messages.
 
-
-
-
-
 ### While having proper internet connection :
+A server will be created using the azure to host the map services which can be used by the users in following ways:
 1. Users can mark their location on the map and share them with others. This information can be shared with friends and relatives who can monitor the users location.
 2. App will display on a map location of various people around the user and help people to form groups/communities.
 3. Users can mark various areas on map as low, medium and high threat. This will inform other users which areas are safe and help them to find safe locations near them.
