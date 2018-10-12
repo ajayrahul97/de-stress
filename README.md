@@ -6,9 +6,9 @@ Disaster Recovery Management Application - Code.fun.do.2018
 ## Background :
 
 Our society suffers a lot of damage because of various and complicated disasters. Many organizations are struggling to mitigate disasters to prevent a growing number of casualties.
-Research on disaster risk warnings has been growing steadily. Even though at  present there are a number of places equipped with the warning systems, their not sufficient and efficient enough.
+Research on disaster risk warnings has been growing steadily. Even though at  present there are a number of places equipped with the warning systems, they are not sufficient and efficient enough.
 
-Our app focuses on bringing together affected people in times of disaster. This app has three primary objectives with a number of additional features that are essential for any disaster management app in general. We understand that the user or may or may not avail internet connectivity during such disasters, and accordingly developed the below three primary objectives.
+Our app focuses on bringing together affected people in times of disaster. This app has three primary objectives with a number of additional features that are essential for any disaster management app in general. We understand that the user or may or may not avail internet connectivity during such disasters, and accordingly come up with the below three primary objectives.
 
 ## Primary Goals : 
  
@@ -40,5 +40,6 @@ If a user is under threat or needs food medicine urgently, he can mark his locat
 
 
 ## Additional features:
-Users can store their personal information such as blood group, any serious medical diseases such as diabetics, contact numbers of relatives etc in the app. The case the user is found unconscious, this information can be used to provide correct treatment and contact his relatives.
+1. Users can store their personal information such as blood group, any serious medical diseases such as diabetics, contact numbers of relatives etc in the app. The case the user is found unconscious, this information can be used to provide correct treatment and contact his relatives. 
+2. Support for native languages.
 
